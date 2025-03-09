@@ -1,0 +1,2 @@
+/Users/ahmeddastagir/Downloads/food_delivery/android/app/.cxx/Debug/46soa4c3/x86_64/CMakeFiles/edit_cache.dir
+/Users/ahmeddastagir/Downloads/food_delivery/android/app/.cxx/Debug/46soa4c3/x86_64/CMakeFiles/rebuild_cache.dir
